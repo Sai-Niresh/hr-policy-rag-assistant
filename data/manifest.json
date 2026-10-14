@@ -1,0 +1,31 @@
+{
+  "policies": [
+    {
+      "id": "remote_work_policy",
+      "filename": "remote_work_policy.pdf",
+      "title": "Dickinson College Remote Work Policy",
+      "publisher": "Dickinson College Human Resource Services",
+      "original_url": "https://www.dickinson.edu/download/downloads/id/12940/remote_work_policy.pdf",
+      "access_date": "2026-10-14",
+      "description": "Establishes expectations and guidelines for remote and hybrid work arrangements, equipment provisions, eligibility criteria, and workplace safety requirements."
+    },
+    {
+      "id": "sick_leave_bank_policy",
+      "filename": "sick_leave_bank.pdf",
+      "title": "Dickinson College Sick-Leave Bank Policy",
+      "publisher": "Dickinson College Human Resource Services",
+      "original_url": "https://www.dickinson.edu/download/downloads/id/15766/sick_leave_bank.pdf",
+      "access_date": "2026-10-14",
+      "description": "Details the paid sick leave bank for eligible full-time nonexempt employees, covering donation rules, college matching, draw eligibility, and maximum withdrawal caps."
+    },
+    {
+      "id": "vacation_policy",
+      "filename": "vacation.pdf",
+      "title": "Dickinson College Vacation Policy",
+      "publisher": "Dickinson College Human Resource Services",
+      "original_url": "https://www.dickinson.edu/download/downloads/id/15771/vacation.pdf",
+      "access_date": "2026-10-14",
+      "description": "Defines vacation accruals, allotments for exempt and nonexempt employees, fiscal year usage guidelines, rollover rules, and separation payouts."
+    }
+  ]
+}
